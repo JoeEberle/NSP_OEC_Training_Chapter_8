@@ -634,7 +634,7 @@ To **correct a written report** properly, follow these steps:
 By following these steps, the correction maintains the integrity and accuracy of the report while keeping the process transparent and traceable.
 
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
